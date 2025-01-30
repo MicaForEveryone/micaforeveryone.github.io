@@ -7,8 +7,8 @@
 	<MainBundle
 		Name="MicaForEveryone.MicaForEveryone2"
 		Publisher="CN=Đặng Bình Minh, O=Đặng Bình Minh, L=Hà Nội, C=VN"
-		Version="2.0.0.0"
-		Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.0.0-preview.1/bundle.msixbundle" />
+		Version="2.0.1.0"
+		Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.0.0-preview.2/bundle.msixbundle" />
 
 	<Dependencies>
 		<Package
@@ -16,19 +16,19 @@
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			Version="6000.318.2304.0"
 			ProcessorArchitecture="x64"
-			Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.0.0-preview.1/wasdk-x64.msix" />
-        	<Package
+			Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.0.0-preview.2/wasdk-x64.msix" />
+        <Package
 			Name="Microsoft.WindowsAppRuntime.1.6"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			Version="6000.318.2304.0"
 			ProcessorArchitecture="arm64"
-			Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.0.0-preview.1/wasdk-arm64.msix" />
-        	<Package
+			Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.0.0-preview.2/wasdk-arm64.msix" />
+        <Package
 			Name="Microsoft.WindowsAppRuntime.1.6"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			Version="6000.318.2304.0"
 			ProcessorArchitecture="x86"
-			Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.0.0-preview.1/wasdk-x86.msix" />
+			Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.0.0-preview.2/wasdk-x86.msix" />
 	</Dependencies>
 
 	<UpdateSettings>
