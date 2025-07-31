@@ -7,7 +7,7 @@
 	<MainBundle
 		Name="MicaForEveryone.MicaForEveryone2"
 		Publisher="CN=Đặng Bình Minh, O=Đặng Bình Minh, L=Hà Nội, C=VN"
-		Version="2.0.3.0"
+		Version="2.0.4.0"
 		Uri="https://github.com/MicaForEveryone/MicaForEveryone/releases/download/2.0.4.0/bundle.msixbundle" />
 
 	<Dependencies>
